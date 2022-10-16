@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/colorist/static/css/main.cb6a4ff4.css",
-    "main.js": "/colorist/static/js/main.223225b0.js",
+    "main.css": "/colorist/static/css/main.358047bd.css",
+    "main.js": "/colorist/static/js/main.2304e53b.js",
     "static/js/787.87717ff9.chunk.js": "/colorist/static/js/787.87717ff9.chunk.js",
     "static/media/aaa.png": "/colorist/static/media/aaa.cfc68acd10758c8d4c61.png",
     "static/media/bbb.png": "/colorist/static/media/bbb.4ac1f4831b192a560adb.png",
@@ -52,12 +52,12 @@
     "static/media/telegram.svg": "/colorist/static/media/telegram.da27cc0037e7ae9c6dfe0dd57a4526c5.svg",
     "static/media/menu.svg": "/colorist/static/media/menu.111cfc3a3545a9ff785c.svg",
     "static/media/closemenu.svg": "/colorist/static/media/closemenu.80dfd5bd01b8fe0a895e.svg",
-    "main.cb6a4ff4.css.map": "/colorist/static/css/main.cb6a4ff4.css.map",
-    "main.223225b0.js.map": "/colorist/static/js/main.223225b0.js.map",
+    "main.358047bd.css.map": "/colorist/static/css/main.358047bd.css.map",
+    "main.2304e53b.js.map": "/colorist/static/js/main.2304e53b.js.map",
     "787.87717ff9.chunk.js.map": "/colorist/static/js/787.87717ff9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cb6a4ff4.css",
-    "static/js/main.223225b0.js"
+    "static/css/main.358047bd.css",
+    "static/js/main.2304e53b.js"
   ]
 }
