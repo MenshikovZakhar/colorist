@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/colorist/static/css/main.3393b8eb.css",
-    "main.js": "/colorist/static/js/main.71b96ff9.js",
+    "main.css": "/colorist/static/css/main.cb6a4ff4.css",
+    "main.js": "/colorist/static/js/main.223225b0.js",
     "static/js/787.87717ff9.chunk.js": "/colorist/static/js/787.87717ff9.chunk.js",
     "static/media/aaa.png": "/colorist/static/media/aaa.cfc68acd10758c8d4c61.png",
     "static/media/bbb.png": "/colorist/static/media/bbb.4ac1f4831b192a560adb.png",
@@ -13,13 +13,13 @@
     "static/media/slide2.jpg": "/colorist/static/media/slide2.a8c2d99cdc51240aa273.jpg",
     "static/media/slide8.jpg": "/colorist/static/media/slide8.67deac2ee9280b02a228.jpg",
     "static/media/zzz.jpg": "/colorist/static/media/zzz.bab608196d946424354b.jpg",
+    "static/media/www.jpg": "/colorist/static/media/www.be68e63b57b3f25df6d3.jpg",
     "static/media/philosopher_bold_italic.svg": "/colorist/static/media/philosopher_bold_italic.73ffd5e3372215b472ad.svg",
     "static/media/slide9.jpg": "/colorist/static/media/slide9.70d2667f6898193ab052.jpg",
     "static/media/brands__img-6.png": "/colorist/static/media/brands__img-6.61391a64a130407f418e.png",
     "static/media/slide12.jpg": "/colorist/static/media/slide12.809b2a801c4cc03f9827.jpg",
     "static/media/slide11.jpg": "/colorist/static/media/slide11.d81021ca09844a9a0bff.jpg",
     "static/media/brands__img-4.png": "/colorist/static/media/brands__img-4.446b7dc0ff1c21cae073.png",
-    "static/media/www.jpg": "/colorist/static/media/www.4a07e5d889a03be140df.jpg",
     "static/media/slide1.jpg": "/colorist/static/media/slide1.d6da1fdcd156c09389a2.jpg",
     "static/media/slide5.jpg": "/colorist/static/media/slide5.1d3a2d32093f722ef84c.jpg",
     "static/media/slide3.jpg": "/colorist/static/media/slide3.c1ba002a832260ce7afa.jpg",
@@ -32,14 +32,13 @@
     "static/media/xxx_1.jpg": "/colorist/static/media/xxx_1.fa4a73e1144de8477da6.jpg",
     "static/media/xxx.jpg": "/colorist/static/media/xxx.faa5f36a657716def6d0.jpg",
     "static/media/brands__img-2.png": "/colorist/static/media/brands__img-2.bc46cee083c1b1e62653.png",
-    "static/media/brands__img-9.png": "/colorist/static/media/brands__img-9.c3bf3a3b957a8618dc29.png",
     "static/media/brands__img-7.png": "/colorist/static/media/brands__img-7.09879260c377efded5af.png",
     "static/media/philosopher_bold_italic.woff2": "/colorist/static/media/philosopher_bold_italic.cfa382a94e0dfbad4a04.woff2",
     "static/media/brands__img-3.png": "/colorist/static/media/brands__img-3.6720fbb2bbfb0c603f44.png",
     "static/media/ramka.png": "/colorist/static/media/ramka.8024e3d5c9a8ae5662fa.png",
-    "static/media/brands__img-5.png": "/colorist/static/media/brands__img-5.8d96a2b33b3988f3f21c.png",
     "static/media/phone_2.png": "/colorist/static/media/phone_2.849a90d34210ca408941.png",
-    "static/media/brands__img-10.png": "/colorist/static/media/brands__img-10.088a65cfcc97e8cf503b.png",
+    "static/media/brands__img-9.png": "/colorist/static/media/brands__img-9.088a65cfcc97e8cf503b.png",
+    "static/media/brands__img-5.png": "/colorist/static/media/brands__img-5.f18e90ebf77d14d90245.png",
     "static/media/logo_2.png": "/colorist/static/media/logo_2.b8bdbef187f41eae35ef.png",
     "static/media/instagram.svg": "/colorist/static/media/instagram.561bcad823664d0cdf11dd07796dc4ba.svg",
     "static/media/whatsapp.svg": "/colorist/static/media/whatsapp.973a7e77f1662d32198f8505db6f2a02.svg",
@@ -53,12 +52,12 @@
     "static/media/telegram.svg": "/colorist/static/media/telegram.da27cc0037e7ae9c6dfe0dd57a4526c5.svg",
     "static/media/menu.svg": "/colorist/static/media/menu.111cfc3a3545a9ff785c.svg",
     "static/media/closemenu.svg": "/colorist/static/media/closemenu.80dfd5bd01b8fe0a895e.svg",
-    "main.3393b8eb.css.map": "/colorist/static/css/main.3393b8eb.css.map",
-    "main.71b96ff9.js.map": "/colorist/static/js/main.71b96ff9.js.map",
+    "main.cb6a4ff4.css.map": "/colorist/static/css/main.cb6a4ff4.css.map",
+    "main.223225b0.js.map": "/colorist/static/js/main.223225b0.js.map",
     "787.87717ff9.chunk.js.map": "/colorist/static/js/787.87717ff9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3393b8eb.css",
-    "static/js/main.71b96ff9.js"
+    "static/css/main.cb6a4ff4.css",
+    "static/js/main.223225b0.js"
   ]
 }
