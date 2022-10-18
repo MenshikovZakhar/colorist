@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/colorist/static/css/main.911e1677.css",
+    "main.css": "/colorist/static/css/main.1f4a191b.css",
     "main.js": "/colorist/static/js/main.7d5c1632.js",
     "static/js/787.87717ff9.chunk.js": "/colorist/static/js/787.87717ff9.chunk.js",
     "static/media/aaa.png": "/colorist/static/media/aaa.cfc68acd10758c8d4c61.png",
@@ -55,12 +55,12 @@
     "static/media/telegram.svg": "/colorist/static/media/telegram.da27cc0037e7ae9c6dfe0dd57a4526c5.svg",
     "static/media/menu.svg": "/colorist/static/media/menu.111cfc3a3545a9ff785c.svg",
     "static/media/closemenu.svg": "/colorist/static/media/closemenu.80dfd5bd01b8fe0a895e.svg",
-    "main.911e1677.css.map": "/colorist/static/css/main.911e1677.css.map",
+    "main.1f4a191b.css.map": "/colorist/static/css/main.1f4a191b.css.map",
     "main.7d5c1632.js.map": "/colorist/static/js/main.7d5c1632.js.map",
     "787.87717ff9.chunk.js.map": "/colorist/static/js/787.87717ff9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.911e1677.css",
+    "static/css/main.1f4a191b.css",
     "static/js/main.7d5c1632.js"
   ]
 }
