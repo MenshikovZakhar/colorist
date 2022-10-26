@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/colorist/static/css/main.4e2138f1.css",
-    "main.js": "/colorist/static/js/main.882de803.js",
+    "main.js": "/colorist/static/js/main.eccf56bd.js",
     "static/js/787.87717ff9.chunk.js": "/colorist/static/js/787.87717ff9.chunk.js",
     "static/media/consultation.jpg": "/colorist/static/media/consultation.89874be3312e8d6e5cb3.jpg",
     "static/media/valeria__photo-3.png": "/colorist/static/media/valeria__photo-3.0255cbf41fdc59d15c8a.png",
@@ -9,11 +9,9 @@
     "static/media/bbb.png": "/colorist/static/media/bbb.4ac1f4831b192a560adb.png",
     "static/media/brands__img-1.png": "/colorist/static/media/brands__img-1.3cc8c6470c481e37e6ee.png",
     "static/media/slide6.jpg": "/colorist/static/media/slide6.05ae37027d181623d913.jpg",
-    "static/media/slide10.jpg": "/colorist/static/media/slide10.821de539569f530dee34.jpg",
     "static/media/philosopher_bold_italic.eot": "/colorist/static/media/philosopher_bold_italic.e88fa16105e5247a4164.eot",
     "static/media/philosopher_bold_italic.ttf": "/colorist/static/media/philosopher_bold_italic.aabf68ea2cbf84b9ef2c.ttf",
     "static/media/slide2.jpg": "/colorist/static/media/slide2.a8c2d99cdc51240aa273.jpg",
-    "static/media/slide8.jpg": "/colorist/static/media/slide8.67deac2ee9280b02a228.jpg",
     "static/media/zzz.jpg": "/colorist/static/media/zzz.bab608196d946424354b.jpg",
     "static/media/www.jpg": "/colorist/static/media/www.be68e63b57b3f25df6d3.jpg",
     "static/media/philosopher_bold_italic.svg": "/colorist/static/media/philosopher_bold_italic.73ffd5e3372215b472ad.svg",
@@ -61,11 +59,11 @@
     "static/media/menu.svg": "/colorist/static/media/menu.111cfc3a3545a9ff785c.svg",
     "static/media/closemenu.svg": "/colorist/static/media/closemenu.80dfd5bd01b8fe0a895e.svg",
     "main.4e2138f1.css.map": "/colorist/static/css/main.4e2138f1.css.map",
-    "main.882de803.js.map": "/colorist/static/js/main.882de803.js.map",
+    "main.eccf56bd.js.map": "/colorist/static/js/main.eccf56bd.js.map",
     "787.87717ff9.chunk.js.map": "/colorist/static/js/787.87717ff9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4e2138f1.css",
-    "static/js/main.882de803.js"
+    "static/js/main.eccf56bd.js"
   ]
 }
