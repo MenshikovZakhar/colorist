@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/colorist/static/css/main.0c8f90fe.css",
-    "main.js": "/colorist/static/js/main.8881d110.js",
+    "main.js": "/colorist/static/js/main.25110876.js",
     "static/js/787.87717ff9.chunk.js": "/colorist/static/js/787.87717ff9.chunk.js",
     "static/media/consultation.jpg": "/colorist/static/media/consultation.89874be3312e8d6e5cb3.jpg",
     "static/media/valeria__photo-3.png": "/colorist/static/media/valeria__photo-3.0255cbf41fdc59d15c8a.png",
@@ -105,11 +105,11 @@
     "static/media/close.svg": "/colorist/static/media/close.ad98de32e342afafa118.svg",
     "static/media/closemenu.svg": "/colorist/static/media/closemenu.80dfd5bd01b8fe0a895e.svg",
     "main.0c8f90fe.css.map": "/colorist/static/css/main.0c8f90fe.css.map",
-    "main.8881d110.js.map": "/colorist/static/js/main.8881d110.js.map",
+    "main.25110876.js.map": "/colorist/static/js/main.25110876.js.map",
     "787.87717ff9.chunk.js.map": "/colorist/static/js/787.87717ff9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0c8f90fe.css",
-    "static/js/main.8881d110.js"
+    "static/js/main.25110876.js"
   ]
 }
