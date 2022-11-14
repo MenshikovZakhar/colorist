@@ -5,4 +5,4 @@ Disallow: /accounts
 # Allow all crawlers
 User-agent: *
 Allow: /
-Host: https//valeria-colorist.ru
+Host: https://valeria-colorist.ru
