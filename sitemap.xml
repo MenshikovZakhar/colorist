@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
    <url>
 
@@ -71,6 +75,7 @@
       <priority>0.7</priority>
 
    </url>
+    <url>
 
       <loc>https://valeria-colorist.ru/#/services_4</loc>
 
@@ -82,8 +87,8 @@
 
    </url>
 
-   </url>
-
+ 
+ <url>
       <loc>https://valeria-colorist.ru/#/price</loc>
 
       <lastmod>2022-15-11</lastmod>
@@ -94,8 +99,8 @@
 
    </url>
 
-     </url>
-
+     
+ <url>
       <loc>https://valeria-colorist.ru/#/portfolio</loc>
 
       <lastmod>2022-15-11</lastmod>
@@ -106,8 +111,8 @@
 
    </url>
 
-     </url>
-
+    
+ <url>
       <loc>https://valeria-colorist.ru/#/portfolio_1</loc>
 
       <lastmod>2022-15-11</lastmod>
@@ -118,8 +123,8 @@
 
    </url>
 
-     </url>
-
+   
+ <url>
       <loc>https://valeria-colorist.ru/#/portfolio_2</loc>
 
       <lastmod>2022-15-11</lastmod>
@@ -130,7 +135,7 @@
 
    </url>
 
-     </url>
+     <url>
 
       <loc>https://valeria-colorist.ru/#/portfolio_3</loc>
 
@@ -142,7 +147,7 @@
 
    </url>
 
-     </url>
+     <url>
 
       <loc>https://valeria-colorist.ru/#/portfolio_4</loc>
 
@@ -154,7 +159,7 @@
 
    </url>
 
-     </url>
+     <url>
 
       <loc>https://valeria-colorist.ru/#/portfolio_5</loc>
 
@@ -166,7 +171,7 @@
 
    </url>
 
-  </url>
+  <url>
 
       <loc>https://valeria-colorist.ru/#/contacts</loc>
 
