@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.00a410c2.css",
-    "main.js": "./static/js/main.0a6c8164.js",
+    "main.css": "./static/css/main.8031fa3a.css",
+    "main.js": "./static/js/main.848df72f.js",
     "static/js/787.87717ff9.chunk.js": "./static/js/787.87717ff9.chunk.js",
     "static/media/consultation.jpg": "./static/media/consultation.89874be3312e8d6e5cb3.jpg",
     "static/media/valeria__photo-3.png": "./static/media/valeria__photo-3.0255cbf41fdc59d15c8a.png",
@@ -104,12 +104,12 @@
     "static/media/menu.svg": "./static/media/menu.111cfc3a3545a9ff785c.svg",
     "static/media/close.svg": "./static/media/close.ad98de32e342afafa118.svg",
     "static/media/closemenu.svg": "./static/media/closemenu.80dfd5bd01b8fe0a895e.svg",
-    "main.00a410c2.css.map": "./static/css/main.00a410c2.css.map",
-    "main.0a6c8164.js.map": "./static/js/main.0a6c8164.js.map",
+    "main.8031fa3a.css.map": "./static/css/main.8031fa3a.css.map",
+    "main.848df72f.js.map": "./static/js/main.848df72f.js.map",
     "787.87717ff9.chunk.js.map": "./static/js/787.87717ff9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.00a410c2.css",
-    "static/js/main.0a6c8164.js"
+    "static/css/main.8031fa3a.css",
+    "static/js/main.848df72f.js"
   ]
 }
